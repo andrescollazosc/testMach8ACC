@@ -1,0 +1,12 @@
+C:\Users\acollazos\source\repos\Mach8.TestACC\Mach8.TestACC.Dto\bin\Debug\net6.0\Mach8.TestACC.Dto.deps.json
+C:\Users\acollazos\source\repos\Mach8.TestACC\Mach8.TestACC.Dto\bin\Debug\net6.0\Mach8.TestACC.Dto.dll
+C:\Users\acollazos\source\repos\Mach8.TestACC\Mach8.TestACC.Dto\bin\Debug\net6.0\Mach8.TestACC.Dto.pdb
+C:\Users\acollazos\source\repos\Mach8.TestACC\Mach8.TestACC.Dto\obj\Debug\net6.0\Mach8.TestACC.Dto.csproj.AssemblyReference.cache
+C:\Users\acollazos\source\repos\Mach8.TestACC\Mach8.TestACC.Dto\obj\Debug\net6.0\Mach8.TestACC.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acollazos\source\repos\Mach8.TestACC\Mach8.TestACC.Dto\obj\Debug\net6.0\Mach8.TestACC.Dto.AssemblyInfoInputs.cache
+C:\Users\acollazos\source\repos\Mach8.TestACC\Mach8.TestACC.Dto\obj\Debug\net6.0\Mach8.TestACC.Dto.AssemblyInfo.cs
+C:\Users\acollazos\source\repos\Mach8.TestACC\Mach8.TestACC.Dto\obj\Debug\net6.0\Mach8.TestACC.Dto.csproj.CoreCompileInputs.cache
+C:\Users\acollazos\source\repos\Mach8.TestACC\Mach8.TestACC.Dto\obj\Debug\net6.0\Mach8.TestACC.Dto.dll
+C:\Users\acollazos\source\repos\Mach8.TestACC\Mach8.TestACC.Dto\obj\Debug\net6.0\refint\Mach8.TestACC.Dto.dll
+C:\Users\acollazos\source\repos\Mach8.TestACC\Mach8.TestACC.Dto\obj\Debug\net6.0\Mach8.TestACC.Dto.pdb
+C:\Users\acollazos\source\repos\Mach8.TestACC\Mach8.TestACC.Dto\obj\Debug\net6.0\ref\Mach8.TestACC.Dto.dll

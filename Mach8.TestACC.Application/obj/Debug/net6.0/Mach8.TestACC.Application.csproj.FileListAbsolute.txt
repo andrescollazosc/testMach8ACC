@@ -1,0 +1,17 @@
+C:\Users\acollazos\source\repos\Mach8.TestACC\Mach8.TestACC.Application\bin\Debug\net6.0\Mach8.TestACC.Application.deps.json
+C:\Users\acollazos\source\repos\Mach8.TestACC\Mach8.TestACC.Application\bin\Debug\net6.0\Mach8.TestACC.Application.dll
+C:\Users\acollazos\source\repos\Mach8.TestACC\Mach8.TestACC.Application\bin\Debug\net6.0\Mach8.TestACC.Application.pdb
+C:\Users\acollazos\source\repos\Mach8.TestACC\Mach8.TestACC.Application\bin\Debug\net6.0\Mach8.TestACC.Core.dll
+C:\Users\acollazos\source\repos\Mach8.TestACC\Mach8.TestACC.Application\bin\Debug\net6.0\Mach8.TestACC.Dto.dll
+C:\Users\acollazos\source\repos\Mach8.TestACC\Mach8.TestACC.Application\bin\Debug\net6.0\Mach8.TestACC.Core.pdb
+C:\Users\acollazos\source\repos\Mach8.TestACC\Mach8.TestACC.Application\bin\Debug\net6.0\Mach8.TestACC.Dto.pdb
+C:\Users\acollazos\source\repos\Mach8.TestACC\Mach8.TestACC.Application\obj\Debug\net6.0\Mach8.TestACC.Application.csproj.AssemblyReference.cache
+C:\Users\acollazos\source\repos\Mach8.TestACC\Mach8.TestACC.Application\obj\Debug\net6.0\Mach8.TestACC.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acollazos\source\repos\Mach8.TestACC\Mach8.TestACC.Application\obj\Debug\net6.0\Mach8.TestACC.Application.AssemblyInfoInputs.cache
+C:\Users\acollazos\source\repos\Mach8.TestACC\Mach8.TestACC.Application\obj\Debug\net6.0\Mach8.TestACC.Application.AssemblyInfo.cs
+C:\Users\acollazos\source\repos\Mach8.TestACC\Mach8.TestACC.Application\obj\Debug\net6.0\Mach8.TestACC.Application.csproj.CoreCompileInputs.cache
+C:\Users\acollazos\source\repos\Mach8.TestACC\Mach8.TestACC.Application\obj\Debug\net6.0\Mach8.TestACC.Application.csproj.CopyComplete
+C:\Users\acollazos\source\repos\Mach8.TestACC\Mach8.TestACC.Application\obj\Debug\net6.0\Mach8.TestACC.Application.dll
+C:\Users\acollazos\source\repos\Mach8.TestACC\Mach8.TestACC.Application\obj\Debug\net6.0\refint\Mach8.TestACC.Application.dll
+C:\Users\acollazos\source\repos\Mach8.TestACC\Mach8.TestACC.Application\obj\Debug\net6.0\Mach8.TestACC.Application.pdb
+C:\Users\acollazos\source\repos\Mach8.TestACC\Mach8.TestACC.Application\obj\Debug\net6.0\ref\Mach8.TestACC.Application.dll

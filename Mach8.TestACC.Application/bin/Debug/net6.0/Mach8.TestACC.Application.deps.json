@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Mach8.TestACC.Application/1.0.0": {
+        "dependencies": {
+          "Mach8.TestACC.Core": "1.0.0",
+          "Mach8.TestACC.Dto": "1.0.0"
+        },
+        "runtime": {
+          "Mach8.TestACC.Application.dll": {}
+        }
+      },
+      "Mach8.TestACC.Core/1.0.0": {
+        "runtime": {
+          "Mach8.TestACC.Core.dll": {}
+        }
+      },
+      "Mach8.TestACC.Dto/1.0.0": {
+        "runtime": {
+          "Mach8.TestACC.Dto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mach8.TestACC.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Mach8.TestACC.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Mach8.TestACC.Dto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

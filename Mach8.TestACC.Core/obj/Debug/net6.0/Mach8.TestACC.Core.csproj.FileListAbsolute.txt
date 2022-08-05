@@ -1,0 +1,12 @@
+C:\Users\acollazos\source\repos\Mach8.TestACC\Mach8.TestACC.Core\bin\Debug\net6.0\Mach8.TestACC.Core.deps.json
+C:\Users\acollazos\source\repos\Mach8.TestACC\Mach8.TestACC.Core\bin\Debug\net6.0\Mach8.TestACC.Core.dll
+C:\Users\acollazos\source\repos\Mach8.TestACC\Mach8.TestACC.Core\bin\Debug\net6.0\Mach8.TestACC.Core.pdb
+C:\Users\acollazos\source\repos\Mach8.TestACC\Mach8.TestACC.Core\obj\Debug\net6.0\Mach8.TestACC.Core.csproj.AssemblyReference.cache
+C:\Users\acollazos\source\repos\Mach8.TestACC\Mach8.TestACC.Core\obj\Debug\net6.0\Mach8.TestACC.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acollazos\source\repos\Mach8.TestACC\Mach8.TestACC.Core\obj\Debug\net6.0\Mach8.TestACC.Core.AssemblyInfoInputs.cache
+C:\Users\acollazos\source\repos\Mach8.TestACC\Mach8.TestACC.Core\obj\Debug\net6.0\Mach8.TestACC.Core.AssemblyInfo.cs
+C:\Users\acollazos\source\repos\Mach8.TestACC\Mach8.TestACC.Core\obj\Debug\net6.0\Mach8.TestACC.Core.csproj.CoreCompileInputs.cache
+C:\Users\acollazos\source\repos\Mach8.TestACC\Mach8.TestACC.Core\obj\Debug\net6.0\Mach8.TestACC.Core.dll
+C:\Users\acollazos\source\repos\Mach8.TestACC\Mach8.TestACC.Core\obj\Debug\net6.0\refint\Mach8.TestACC.Core.dll
+C:\Users\acollazos\source\repos\Mach8.TestACC\Mach8.TestACC.Core\obj\Debug\net6.0\Mach8.TestACC.Core.pdb
+C:\Users\acollazos\source\repos\Mach8.TestACC\Mach8.TestACC.Core\obj\Debug\net6.0\ref\Mach8.TestACC.Core.dll
