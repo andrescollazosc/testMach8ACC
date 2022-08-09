@@ -6,14 +6,12 @@ namespace Mach8.TestACC.Application.Mapping;
 
 public class Mapper : IMapper
 {
-    public Operation Map(OperationDto operationDto)
-    {
-        return new Operation
+    public Operation Map(OperationDto operationDto) =>
+        new Operation
         {
             Numbers = operationDto.Numbers.Distinct().ToList(),
             ValueToFind = operationDto.ValueToFind,
         };
-    }
 
     public ResponseDto Map(List<ResponseModel> responseItems)
     {
